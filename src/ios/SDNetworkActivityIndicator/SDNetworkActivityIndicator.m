@@ -7,6 +7,9 @@
  */
 
 #import "SDNetworkActivityIndicator.h"
+#import <UIKit/UIKit.h>
+
+
 
 @interface SDNetworkActivityIndicator()
 {
